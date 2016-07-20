@@ -20,5 +20,3 @@ function bulle_instagram($atts, $content = null) {
 
 	return $r;
 }
-echo tralala;
-echo test;
